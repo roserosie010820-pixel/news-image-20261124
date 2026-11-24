@@ -521,20 +521,20 @@ function draw(): void {
     INK,
     3,
   );
-  rule(28, 960, 968, 2, INK);
+  rule(28, 964, 968, 2, INK);
 
   // Footer briefs.
   drawTextCentered(
     'ALSO: MEXICO CAPTURES \u2019EL CHAPO ISIDRO\u2019 \u2022 RUSSIAN JETS ENTER S. KOREA AIR ZONE',
     512,
-    972,
+    974,
     2,
     INK,
   );
   drawTextCentered(
     'SPAIN\u2019S RIGHT SET TO OUST SANCHEZ \u2022 DRAWN FROM THE DAY\u2019S REPORTING',
     512,
-    992,
+    994,
     2,
     INK,
   );
